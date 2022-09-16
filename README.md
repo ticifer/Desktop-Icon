@@ -1,10 +1,10 @@
-# qiyue
-柒月网络库
+# 翎动工作室&墨月网络&八度虎
+图标库
 
-本库均为Window系统桌面图标
+本库为系统桌面图标
 
-Window平台通用
+包含win普通、win透明、mac、iphone等图标
 
-需要其它软件或程序图标的小伙伴
+欢迎小伙伴共享可爱、有趣的图标
 
-请到https://www.moyoo.net/13311.html留言说明
+请到 https://www.moyoo.net/13311.html 留言说明
